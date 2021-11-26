@@ -39,10 +39,10 @@ let All_song = [
      singer: "Singer:  Phao"
    },
    {
-     name: "Song:  Oniichan",
+     name: "Song:  Sad Girlz Luv Money",
      path: "3.mp3",
      img: "img3.jpg",
-     singer: "Singer:  Leo Motoko"
+     singer: "Singer:  Amaarae"
    },
    {
      name: "Song:  fukashigi no carte",
